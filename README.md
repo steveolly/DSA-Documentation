@@ -44,4 +44,8 @@ FROM table_name
 WHERE a > 15
 ```
 
+### Analysis
+
+
+![Screenshot 2025-04-18 154732](https://github.com/user-attachments/assets/ba71935d-470a-4c4e-acc2-c43def2d42d5)
 
