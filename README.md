@@ -14,7 +14,11 @@ By analysing the various parameters in the data reveived we seek to gather enoug
 The primary source of Data used here is Data Sale.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED or any other data repository site.
 
 ### Tools Used
-Ms Excel for Data Cleaning (Download here)
-SQL Server (For Querying and Analysis)
-Power BI (For creating a report)
-Ms Power Point (For Presentation)
+- Ms Excel for Data Cleaning [Download here](https://www.microsoft.com)
+    - For Data Collection
+    - For Data Cleaning
+        1. Data Manipulation
+        2. Data Munching
+- SQL Server (For Querying and Analysis)
+- Power BI (For creating a report)
+- Ms Power Point (For Presentation)
